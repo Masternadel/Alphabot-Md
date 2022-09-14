@@ -5,12 +5,49 @@ const  { indonesia, english, spanyol} = require(`./language`)
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
 	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+amel : 'https://melcanz.com',
+ bg : 'http://bochil.ddns.net',
+ bsbt : 'https://rest-beni.herokuapp.com',
+ bx : 'https://bx-hunter.herokuapp.com',
+ dhnjing : 'https://dhnjing.xyz',
+ dzx : 'https://api.dhamzxploit.my.id',
+ erdwepe : 'https://erdwpe-api.herokuapp.com',
+ fdci : 'https://api.fdci.se',
+ hardianto : 'https://hardianto.xyz',
+ jonaz : 'https://jonaz-api-v2.herokuapp.com',
+ LeysCoder : 'https://leyscoders-api.herokuapp.com',
+ lolhuman : 'https://api.lolhuman.xyz',
+ neoxr : 'https://api.neoxr.my.id',
+ nrtm : 'https://nurutomo.herokuapp.com',
+ nzcha : 'http://nzcha-apii.herokuapp.com',
+ pencarikode : 'https://pencarikode.xyz',
+ violetics : 'https://violetics.pw',
+ xteam : 'https://api.xteam.xyz',
+ zahir : 'https://zahirr-web.herokuapp.com',
+ zekais : 'http://zekais-api.herokuapp.com',
+ zeks : 'https://api.zeks.xyz',
+ zenz : 'https://zenzapis.xyz'
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
 	'https://api.zeeoneofc.xyz': 'SLDNgBub',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+'https://api.neoxr.my.id' : '5VC9rvNx',
+ 'https://api.lolhuman.xyz' : '85faf717d0545d14074659ad',
+ 'https://api.xteam.xyz' : 'NezukoTachibana281207',
+ 'https://api.zeks.xyz' : 'apivinz',
+ 'https://hardianto-chan.herokuapp.com' : 'hardianto',
+ 'https://hardianto.xyz' : 'hardianto',
+ 'https://leyscoders-api.herokuapp.com' : 'MIMINGANZ',
+ 'https://melcanz.com' : 'manHkmst',
+ 'https://pencarikode.xyz' : 'pais',
+ 'https://rest-beni.herokuapp.com' : 'benniismaelapikey',
+ 'https://violetics.pw' : 'beta',
+ 'https://zahirr-web.herokuapp.com' : 'zahirgans',
+ 'https://zekais-api.herokuapp.com' : 'zekais',
+ 'https://zenzapis.xyz' : 'f9fccfcff1'
 }
+global.lolkey = '85faf717d0545d14074659ad'
 
 // setting 
 global.autoread = false // auto read message
